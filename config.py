@@ -5,8 +5,8 @@
 # ============================================================
 
 # ── Upstox OAuth2 ──────────────────────────────────────────
-UPSTOX_API_KEY     = "63ab824b-1086-4adf-b3ab-cc08e93f5332"       # paste after Step 4
-UPSTOX_API_SECRET  = "5wv21uf0z3"    # paste after Step 4
+UPSTOX_API_KEY     = ""       # paste after Step 4
+UPSTOX_API_SECRET  = ""    # paste after Step 4
 UPSTOX_REDIRECT_URI = "http://127.0.0.1:5000/callback"  # must match what you set in Upstox app
 
 # Access token is fetched daily at run-time.
@@ -14,7 +14,7 @@ UPSTOX_REDIRECT_URI = "http://127.0.0.1:5000/callback"  # must match what you se
 TOKEN_FILE = "token.txt"
 
 # -- Telegram ────────────────────────────────────────────────
-TELEGRAM_BOT_TOKEN = "8787170403:AAEmm26hWONTm51H5fgRqLo9U5OGQTtuovU"
+TELEGRAM_BOT_TOKEN = ""
 TELEGRAM_CHAT_ID   = "-5268589886"
 TELEGRAM_TIMEOUT   = 20
 TELEGRAM_RETRY_COUNT = 3
