@@ -1,0 +1,11 @@
+upstox-python-sdk
+pandas
+numpy
+requests
+streamlit
+schedule
+python-dotenv
+pytz
+flask
+websocket-client
+matplotlib
